@@ -4,12 +4,12 @@ Given an m x n matrix mat, return an array of all the elements of the array in a
 
 ### Example 1:
 <img width="334" height="334" alt="image" src="https://github.com/user-attachments/assets/d0aa9220-90ac-41b5-9cdc-d2a3b36be2ee" />
-Input: mat = [[1,2,3], [4,5,6], [7,8,9]]
+Input: mat = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 
 Output: [1, 2, 4, 7, 5, 3, 6, 8, 9]
 
 ### Example 2:
-Input: mat = [[1,2], [3,4]]
+Input: mat = [[1, 2], [3, 4]]
 
 Output: [1, 2, 3, 4]
 
