@@ -1,5 +1,5 @@
 int* findDiagonalOrder(int** mat, int matSize, int* matColSize, int* returnSize) {
-    if ( (*matColSize) == 0 && matSize == 0) {
+    if ( (*matColSize) == 0 && matSize == 0 ) {
         *returnSize = 0;
         return NULL;
     }
